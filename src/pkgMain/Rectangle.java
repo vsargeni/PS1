@@ -18,7 +18,7 @@ public class Rectangle {
 	public double Area()
 	{
 		// TODO Implement Area() function with the correct formula
-		double x= Length*Width;
+		double x= Length*Width; //Added Area function for a Rectangle (Length*Width)
 		return x;
 	}	
 }
